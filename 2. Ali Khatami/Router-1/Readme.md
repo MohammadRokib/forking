@@ -27,6 +27,7 @@ conf t
         network 40.0.0.0 0.0.0.3 area 0
         end
 ```
+<br><br>
 ```
 show  ip int brief
 ```
