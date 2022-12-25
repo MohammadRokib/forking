@@ -37,8 +37,10 @@ Still editing....
 - [x] Write some more code
 - [x] Write some more more code
 
-<html>
-<body>
-<p>Let’s keep it as a code block and not render it for once</p>
-</body>
-</html>
+```
+conf t
+    int f0/0
+        ip address 192.16.68.100 255.255.255.0
+        no shut
+        exit
+```
