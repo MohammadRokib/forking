@@ -34,3 +34,5 @@ Still editing....
 - [] Installing VMware Workstation Player
 - [x] Write a blog
 - [x] Write some code 
+- [x] Write some more code
+- [x] Write some more more code
