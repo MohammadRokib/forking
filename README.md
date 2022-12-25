@@ -36,3 +36,9 @@ Still editing....
 - [x] Write some code 
 - [x] Write some more code
 - [x] Write some more more code
+
+<html>
+<body>
+<p>Let’s keep it as a code block and not render it for once</p>
+</body>
+</html>
