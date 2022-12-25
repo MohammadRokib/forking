@@ -4,28 +4,28 @@ Router-1 will have 3 interfaces f0/0, s1/0 and s1/1.  Interface **f0/0** will be
 
 Router-1 terminal commands are given below:
 ```
-conf t                                                                                              // entering terminal edit mode
-    int f0/0                                                                                      // selecting the interface f0/0 to edit
-        ip address 172.16.68.1 255.255.255.192            // giving static ip address to the interface f0/0
-        no shut                                                                                 // turning the interface on
-        exit                                                                                         // exiting from interface editing
+conf t
+    int f0/0
+        ip address 172.16.68.1 255.255.255.192
+        no shut
+        exit
 
-    int s1/0                                                                                     // selecting the s1/0 to edit
-        ip address 10.0.0.1 255.255.255.252                   // giving static ip address to the interface s1/0
-        no shut                                                                                // turning the interface on
-        exit                                                                                        // exiting from interface editing
+    int s1/0
+        ip address 10.0.0.1 255.255.255.252
+        no shut
+        exit
 
-    int s1/1                                                                                    // selecting the s1/1 to edit
-        ip address 40.0.0.1 255.255.255.252                  // giving static ip address to the interface s1/1
-        no shut                                                                               // turning the interface on
-        exit                                                                                       // exiting from interface editing
+    int s1/1
+        ip address 40.0.0.1 255.255.255.252
+        no shut
+        exit
 
-    router ospf 1                                                                       // adding ospf routing protocol
+    router ospf 1
 
-        network 172.16.68.0 0.0.0.63 area 0                  // added ospf routing for network 172.16.68.0
-        network 10.0.0.0 0.0.0.3 area 0                            //  added ospf routing for ronetwrok 10.0.0.0 
-        network 40.0.0.0 0.0.0.3 area 0                            //  added ospf routing for netwrok 40.0.0.0
-        end                                                                                       // exiting from terminal editing mode
+        network 172.16.68.0 0.0.0.63 area 0
+        network 10.0.0.0 0.0.0.3 area 0 
+        network 40.0.0.0 0.0.0.3 area 0
+        end
 ```
 <br><br>
 ```
