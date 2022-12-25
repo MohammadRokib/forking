@@ -29,25 +29,25 @@ conf t
 ```
 <br><br>
 ```
-show  ip int brief
+show ip int brief
 ```
 ![1](https://user-images.githubusercontent.com/60141836/209469401-6e2e259c-6b31-4c3d-b9f9-ecd4f5ac0509.png)
 
 <br><br>
 ```
-show  ip route
+show ip route
 ```
 ![2](https://user-images.githubusercontent.com/60141836/209469402-6433cc8c-68f6-4f41-94a8-7c5bbf0ac310.png)
 
 <br><br>
 ```
-show  ip ospf route
+show ip ospf route
 ```
 ![3](https://user-images.githubusercontent.com/60141836/209469403-3d203f70-ece7-4965-b495-bf04c3e6aec4.png)
 
 <br><br>
 ```
-show  ip ospf int
+show ip ospf int
 ```
 ![4 1](https://user-images.githubusercontent.com/60141836/209469404-782163ff-e892-4c15-b304-54941f98f1de.png)
 <br>
@@ -55,6 +55,6 @@ show  ip ospf int
 
 <br><br>
 ```
-show  ip ospf neigh detail
+show ip ospf neigh detail
 ```
 ![5](https://user-images.githubusercontent.com/60141836/209469409-733bfaf1-f609-482a-8d9a-57a68f1f2648.png)
