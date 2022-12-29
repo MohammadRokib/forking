@@ -110,8 +110,9 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 ```
 <br>
-Then click **Go** on the bottom<br>
-![8](https://user-images.githubusercontent.com/60141836/209890848-f66d3b8c-f3b4-4efc-ba17-a9697bd526d3.png)
+
+Then I'll click **Go** on the bottom<br>
+![8](https://user-images.githubusercontent.com/60141836/209891248-df21fed1-0e4a-4991-8815-8d8dfa3ac796.png)
 <br><br>
 
 We will get a success message<br>
