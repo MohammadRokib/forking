@@ -142,3 +142,7 @@ We can verify the IP address from cmd by the command ```ipconfig```<br>
 After doing all that now we can finally access the website by its ip address from other computers in the same network<br>
 ![15](https://user-images.githubusercontent.com/60141836/209843028-94b1d700-9357-46ea-97a8-2ac80b6f2459.png)
 <br><br>
+
+
+
+https://mega.nz/folder/A1xARKoC#hePhI2TJjqjrkZ7Gq8qMcA
