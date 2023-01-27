@@ -148,3 +148,6 @@ After doing all that now we can finally access the website by its ip address fro
 https://mega.nz/folder/A1xARKoC#hePhI2TJjqjrkZ7Gq8qMcA
 
 https://mega.nz/file/VEhwwICB#MWqOVjKyP9fuxHSlmfXDXdNc2jsnpMoNieeN1ZpBCKw
+
+connected
+
