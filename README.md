@@ -160,3 +160,15 @@ https://twitter.com/HRKHAN001/status/1619711315546869766?t=X3Yz19gbeUKOHOPPlLuoi
 
 https://www.allthatnode.com/faucet/ethereum.dsrv <br>
 0xA5FF30085aA000D091EA3112918f7F24FaA9b95f
+
+
+
+
+Turorial: https://www.youtube.com/watch?v=M576WGiDBdQ
+
+Ethereum Doc-1: https://geth.ethereum.org/docs
+Ethereum Doc-2: https://docs.ethers.org/v5/
+Ethereum Doc-3: https://ethereum.org/en/developers/docs/
+
+Ethereum with Go language: https://geth.ethereum.org/docs
+Chainlink: https://docs.chain.link/getting-started/conceptual-overview
