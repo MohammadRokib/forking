@@ -176,3 +176,5 @@ Chainlink: https://docs.chain.link/getting-started/conceptual-overview
 
 
 https://slidesgo.com/search?q=blockchain#rs=search
+
+https://slidesgo.com/new-theme/blockchain-company-profile#search-blockchain&position-1&results-126&rs=search
