@@ -172,3 +172,7 @@ Ethereum Doc-3: https://ethereum.org/en/developers/docs/
 
 Ethereum with Go language: https://geth.ethereum.org/docs
 Chainlink: https://docs.chain.link/getting-started/conceptual-overview
+
+
+
+https://slidesgo.com/search?q=blockchain#rs=search
