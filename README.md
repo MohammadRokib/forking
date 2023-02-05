@@ -178,3 +178,7 @@ Chainlink: https://docs.chain.link/getting-started/conceptual-overview
 https://slidesgo.com/search?q=blockchain#rs=search
 
 https://slidesgo.com/new-theme/blockchain-company-profile#search-blockchain&position-1&results-126&rs=search
+
+
+
+https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20(Command-line%20interface/Linux%20Terminal)%20-%20Uncomplicated,%20Simple%20and%20Brief%20Way!
