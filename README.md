@@ -199,26 +199,26 @@ to unzip the file run this command:
 sudo tar -xvf geth-linux-amd64-1.10.26-e5eb32ac.tar.gz
 ```
 
-Navigate to the extracted folder:
+<br>Navigate to the extracted folder:
 ```
 cd geth-linux-amd64-1.10.26-e5eb32ac
 ```
 
-Make the geth file executable:
+<br>Make the geth file executable:
 ```
 sudo chmod +x geth
 ```
 
-Copy the geth file to /usr/local/bin directory
+<br>Copy the geth file to /usr/local/bin directory
 ```
 sudo cp geth /usr/local/bin
 ```
 
-to check the geth version:
+<br>to check the geth version:
 ```
 geth version // to check the geth version
 ```
-If the installation is successful it will show<br>
+<br>If the installation is successful it will show<br>
 ```
 Geth
 Version: 1.10.26-stable
