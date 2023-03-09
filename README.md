@@ -34,7 +34,7 @@ Still editing....
 - [] Installing VMware Workstation Player
 - [x] Write a blog
 ### - [x] Write some code<br>
-      Navigate to the downloaded floder.
+Navigate to the downloaded floder.
 - [x] Write some more code
 - [x] Write some more more code
 
