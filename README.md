@@ -183,3 +183,24 @@ https://slidesgo.com/new-theme/blockchain-company-profile#search-blockchain&posi
 
 
 https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20(Command-line%20interface/Linux%20Terminal)%20-%20Uncomplicated,%20Simple%20and%20Brief%20Way!
+
+
+
+
+
+
+
+
+```
+    Downloads  0.008s                   mohammadrokib /  10:06:37 PM 
+﬌  tar -xvf geth-linux-amd64-1.10.26-e5eb32ac.tar.gz // to unzip
+
+geth-linux-amd64-1.10.26-e5eb32ac/
+geth-linux-amd64-1.10.26-e5eb32ac/COPYING
+geth-linux-amd64-1.10.26-e5eb32ac/geth
+
+     Downloads  0s                       mohammadrokib /  10:07:13 PM 
+﬌  
+
+
+```
