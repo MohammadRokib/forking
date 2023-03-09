@@ -191,22 +191,42 @@ https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%
 
 
 
+### For Linux
+Open terminal and navigate to the downloaded folder. Then run the following commands.
+
+to unzip the file run this command:
 ```
-sudo tar -xvf geth-linux-amd64-1.10.26-e5eb32ac.tar.gz // to unzip the file
+sudo tar -xvf geth-linux-amd64-1.10.26-e5eb32ac.tar.gz
 ```
 
+Navigate to the extracted folder:
 ```
-cd geth-linux-amd64-1.10.26-e5eb32ac // navigate to the extracted folder
-```
-
-```
-sudo chmod +x geth // to make the geth file executable
+cd geth-linux-amd64-1.10.26-e5eb32ac
 ```
 
+Make the geth file executable:
 ```
-sudo cp geth /usr/bin/local // to copy the geth file in /usr/bin/local
+sudo chmod +x geth
 ```
 
+Copy the geth file to /usr/local/bin directory
+```
+sudo cp geth /usr/local/bin
+```
+
+to check the geth version:
 ```
 geth version // to check the geth version
+```
+If the installation is successful it will show<br>
+```
+Geth
+Version: 1.10.26-stable
+Git Commit: e5eb32acee19cc9fca6a03b10283b7484246b15a
+Git Commit Date: 20221103
+Architecture: amd64
+Go Version: go1.18.5
+Operating System: linux
+GOPATH=
+GOROOT=go
 ```
