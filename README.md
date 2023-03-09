@@ -192,31 +192,21 @@ https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%
 
 
 ```
-    Downloads  0s                     mohammadrokib /  10:14:49 PM 
-﬌  **sudo tar -xvf geth-linux-amd64-1.10.26-e5eb32ac.tar.gz**
-[sudo] password for mohammadrokib: 
-geth-linux-amd64-1.10.26-e5eb32ac/
-geth-linux-amd64-1.10.26-e5eb32ac/COPYING
-geth-linux-amd64-1.10.26-e5eb32ac/geth
+sudo tar -xvf geth-linux-amd64-1.10.26-e5eb32ac.tar.gz // to unzip the file
+```
 
-    Downloads  2.537s                 mohammadrokib /  10:15:01 PM 
-﬌  **cd geth-linux-amd64-1.10.26-e5eb32ac**
+```
+cd geth-linux-amd64-1.10.26-e5eb32ac // navigate to the extracted folder
+```
 
-      geth-linux-amd64-1.10.26-e5eb32 mohammadrokib /  10:15:15 PM 
-﬌  **sudo chmod +x geth**
+```
+sudo chmod +x geth // to make the geth file executable
+```
 
-      geth-linux-amd64-1.10.26-e5eb32 mohammadrokib /  10:15:26 PM 
-﬌  **sudo cp geth /usr/local/bin/**
+```
+sudo cp geth /usr/bin/local // to copy the geth file in /usr/bin/local
+```
 
-      geth-linux-amd64-1.10.26-e5eb32 mohammadrokib /  10:15:38 PM 
-﬌  **geth version**
-Geth
-Version: 1.10.26-stable
-Git Commit: e5eb32acee19cc9fca6a03b10283b7484246b15a
-Git Commit Date: 20221103
-Architecture: amd64
-Go Version: go1.18.5
-Operating System: linux
-GOPATH=
-GOROOT=go
+```
+geth version // to check the geth version
 ```
